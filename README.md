@@ -7,7 +7,7 @@
 | MySQL  | 48  |
 | Python | 33  |
 
-#### Current Progres
+#### Current Progress
 My profile: https://leetcode.com/u/yu_vl/ <br>
 
 Leetcode Heatmap           |  Leetcode Activity
